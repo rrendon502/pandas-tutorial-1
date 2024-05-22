@@ -1,4 +1,6 @@
 
+
+
 [This is the email I sent out ahead of time to the students who were
  scheduled to attend the tutorial at PyCon 2015.]
 
